@@ -1,7 +1,0 @@
-zmienna:=wartosc1  #komentarz
-#komentarz
-
-zmienna2:=2
-Zmienna3:=-4.55,-0.99,0,6123 #tu bedzie wektor 
-Zmienna4:=# komentarz po znaku :=  powoduje ze nie ma takiej zmiennej 
-#zmienna5:=nie   - ta zmienna nie wchodzi bo jest za komentowana
