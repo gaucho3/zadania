@@ -1,0 +1,14 @@
+var_s:=vector1 #komentarz
+#comment
+var2_i:=2
+var3_f:=-4.55,-0.99,0,6123 #tu bedzie wektor 
+var4_ch:=# komentarz po znaku :=  powoduje ze nie ma takiej zmiennej 
+#var5_b:=false    - ta zmienna nie wchodzi bo jest za komentowana
+-------------------------------------------------------------------------------------------------
+
+sVal:=vector1 #komentarz
+#comment
+iVar2:=2
+fVar3:=-4.55,-0.99,0,6123 #tu bedzie wektor 
+chVar4:=# komentarz po znaku :=  powoduje ze nie ma takiej zmiennej 
+#bVar5:=false    - ta zmienna nie wchodzi bo jest za komentowana
